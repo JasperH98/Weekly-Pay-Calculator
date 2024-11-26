@@ -17,6 +17,6 @@ A Windows Forms application built in C# to calculate employee weekly pay for a m
 ## How to Run
 1. **Clone the Repository**:
 	```bash
-	git clone https://github.com/JasperH98/CoasterManufacturingPayCalculator.git
+	git clone https://github.com/JasperH98/Weekly-Pay-Calculator.git
 
 ## License
